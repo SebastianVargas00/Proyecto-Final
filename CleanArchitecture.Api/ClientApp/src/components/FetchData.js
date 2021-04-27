@@ -18,10 +18,10 @@ export class FetchData extends Component {
       <table className='table table-striped' aria-labelledby="tabelLabel">
         <thead>
           <tr>
-            <th>Datos</th>
+            <th>Date</th>
             <th>Temp. (C)</th>
             <th>Temp. (F)</th>
-            <th>Resumen</th>
+            <th>Summary</th>
           </tr>
         </thead>
         <tbody>
