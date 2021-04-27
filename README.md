@@ -2,7 +2,7 @@
 ProductManager 
 Claro ejemplo del uso de la arquitectura limpia (Clean Arquitecture)
 
-Para que corra el proyecto necesita instalar:
+Para que se ejecute el proyecto necesita instalar:
 -Node.Js
 -Visual Studio 2019 
 -.Net core 3.1
