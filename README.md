@@ -5,7 +5,7 @@ Claro ejemplo del uso de la arquitectura limpia (Clean Arquitecture)
 Para que corra el proyecto necesita instalar:
 -Node.Js
 -Visual Studio 2019 
--.net core 3.1
+-.Net core 3.1
 -Instalar todos los paquetes nugets del proyecto
 -Postman para la validacion de datos
 
@@ -35,5 +35,10 @@ https://www.youtube.com/watch?v=joNTQy-KXiU
 
 
 Fue en hecho en grupo por:
-Brian Dariel Lorenzo (2019-8375)
+Brian Dariel Lorenzo Lorenzo (2019-8375)
 Sebastián de Jesús Vargas Vargas (2019-7820)
+
+Nota:
+Es necesario la instalacion de los componentes antes mencionados 
+para que no tenga problemas al ejecutar el proyecto, tambien la 
+instalacion de los paquetes Nugets con las teclas Ctrl+Shift+B.
